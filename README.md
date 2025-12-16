@@ -1,43 +1,34 @@
 # React Vite Tailwind CSS 4.0 Setup
 
-> Project demonstrating technical skills and practical implementation
+> **Project demonstrating technical skills and practical implementation**
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Technologies](#technologies)
-- [Features](#features)
-- [Technical Skills](#technical-skills)
-- [External Links](#external-links)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Status](#project-status)
-- [Keywords](#keywords)
+---
 
-## 🎯 Overview
-
-**Project Name:** React Vite Tailwind CSS 4.0 Setup
+## 📋 Overview
 
 **Categories:** AI/Machine Learning, Web Development
 
+**Technologies:** HTML/CSS, React, Multiple Technologies, Vite, Tailwind CSS
+
 **Project Period:** July 2025 - July 2025
 
-**Status:** Completed and Maintained
+**Status:** Completed and Maintained | **Last Updated:** July 2025
 
-**Last Updated:** July 2025
+---
 
-### Description
+## 🚀 Description
 
 Project demonstrating technical skills and practical implementation
 
-## 🚀 Technologies
+---
 
-HTML/CSS, React, Multiple Technologies, Vite, Tailwind CSS
-
-## ✨ Features
+## 💡 Project Highlights
 
 - Successfully developed and deployed React Vite Tailwind CSS 4.0 Setup
 - Implemented using HTML/CSS, React, Multiple Technologies
 - Demonstrated proficiency in AI/Machine Learning, Web Development
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -52,44 +43,30 @@ HTML/CSS, React, Multiple Technologies, Vite, Tailwind CSS
 - Intelligent Systems
 - Web Development
 
-## 🔗 External Links
+---
 
-Live Deployment (Netlify):
-- https://app.netlify.com/drop
-- https://wondrous-gingersnap-9cc74c.netlify.app/
-- https://coruscating-cobbler-1a329c.netlify.app/
+## 🔗 Links & Resources
 
-Video Tutorials/Demos (YouTube):
-- https://www.youtube.com/playlist?list=PLrZbkNpNVSwy9neLSBQ1QH14uL_EqNtj4
+### 🌐 Live Deployments
+- [https://app.netlify.com/drop](https://app.netlify.com/drop)
+- [https://wondrous-gingersnap-9cc74c.netlify.app/](https://wondrous-gingersnap-9cc74c.netlify.app/)
+- [https://coruscating-cobbler-1a329c.netlify.app/](https://coruscating-cobbler-1a329c.netlify.app/)
 
-Other Resources:
-- https://code.visualstudio.com/
-- https://nodejs.org/
-- https://vite.dev/config/
+### 📺 Video Tutorials
+- [https://www.youtube.com/playlist?list=PLrZbkNpNVSwy9neLSBQ1QH14uL_EqNtj4](https://www.youtube.com/playlist?list=PLrZbkNpNVSwy9neLSBQ1QH14uL_EqNtj4)
 
-## 📦 Installation
+### 🔧 Other Resources
+- [https://code.visualstudio.com/](https://code.visualstudio.com/)
+- [https://nodejs.org/](https://nodejs.org/)
+- [https://vite.dev/config/](https://vite.dev/config/)
 
-```bash
-# Clone the repository
-git clone https://github.com/HorizonHnk/React-Vite-Tailwind-CSS-4.0-Setup
+---
 
-# Navigate to the project directory
-cd React-Vite-Tailwind-CSS-4.0-Setup
+## 📦 Repository
 
-# Install dependencies (if applicable)
-# npm install
-# or
-# pip install -r requirements.txt
-```
+**GitHub:** [https://github.com/HorizonHnk/React-Vite-Tailwind-CSS-4.0-Setup](https://github.com/HorizonHnk/React-Vite-Tailwind-CSS-4.0-Setup)
 
-## 💻 Usage
-
-Please refer to the project-specific documentation for detailed usage instructions.
-
-## 📊 Project Status
-
-- **Status:** Completed and Maintained
-- **Last Updated:** July 2025
+---
 
 ## 🏷️ Keywords
 
@@ -102,16 +79,8 @@ HTML/CSS, React, Multiple Technologies, Vite, Tailwind CSS, AI/Machine Learning,
 **Henock Mukonkole (HorizonHnk)**
 
 - GitHub: [@henockhnk092-dot](https://github.com/henockhnk092-dot/)
-- Portfolio: [86 Technical Projects](https://github.com/henockhnk092-dot/)
-
-## 📄 License
-
-This project is part of my professional portfolio. Please contact me for licensing information.
-
-## 🤝 Contributing
-
-This is a portfolio project, but feedback and suggestions are always welcome!
+- Portfolio: [90 Technical Projects](https://github.com/henockhnk092-dot/)
 
 ---
 
-*Generated as part of HorizonHnk's GitHub Portfolio Restoration Project*
+*Part of my professional portfolio showcasing expertise in AI/Machine Learning, Web Development*
